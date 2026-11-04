@@ -1,16 +1,16 @@
-# TED System
+---
+// src/pages/index.astro
+---
 
-> Tecnologia que evolui com o seu negócio.
-
-## Sobre a Empresa
-Desenvolver soluções de software personalizadas, seguras e escaláveis que simplifiquem processos, aumentem a produtividade e impulsionem o crescimento dos nossos clientes.
-
-## Localização
-- **Endereço:** Rua Coronel Simplício, 250, Sala 12
-- **Local:** Centro, Piripiri, PI - CEP 64260-000
-
-## Equipe
-- **Wanderson de Vasconcelos** — CEO e Engenheiro de Software
-- **Sheldon Cooper** — Especialista Full Stack
-- **Amy Farrah Fowler** — Especialista em Bancos de Dados
- 
+<html lang="pt-BR">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<title>TED System | Tecnologia que evolui com o seu negócio.</title>
+	</head>
+	<body>
+		<h1>TED System</h1>
+		<p>Tecnologia que evolui com o seu negócio.</p>
+	</body>
+</html>
